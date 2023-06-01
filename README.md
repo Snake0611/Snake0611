@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Snake0611
-- 👀 I’m interested in AI project
+- 👀 I’m interested in new languages and technologies
 - 🌱 I’m currently learning in FPT University
-- 💞️ I’m looking to collaborate on python project about AI
+- 💞️ I’m looking to learn and work on python project about AI
 - 📫 How to reach me v.hiu1504@gmail.com
 
 <!---
